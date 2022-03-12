@@ -1,0 +1,54 @@
+CODE ,Descriptive TItle,Course,Units,,,   Number of Hours,,,No of Students,No. of Sections,Faculty,,TIME,DAY,ROOM,SECTION,Year Level,Semester,S.Y
+,,,LEC,LAB,TOTAL,LEC,LAB,TOTAL,,,LEC,LAB,,,,,,,
+ITE 299,Ethics (including Social and professional Issue),BSIT,3,0,3,2,0,2,,,"LEGASPI, JOHN MICHAEL V",,1:30-3:30,TH,TBA,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+SCX010,Environmental Science,BSIT,3,0,3,2,0,2,,,CAS,,8:00-10:00,F,TBA,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+PHI002,Logic,BSIT,3,0,3,2,0,2,,,CAS,,10:00-12:00,W,TBA,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+ITE 048,Discrete Structures,BSIT,3,0,3,2,0,2,,,PANGILINAN ODEZZA A,,2:3O-4:30,T,TBA,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+ITE 031,Data Structures and  Algorithms,BSIT,2,1,3,1,2,3,,,PANGILINAN ODEZZA A,,10:30-12:30/1:30-2:30,T,CL1,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+ITE 300,Object Oriented Programming,BSIT,2,1,3,1,1,3,,,"COLLADO, SALVADOR P",,1:30:3:30/3:30-4:30,TH,CL1,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+ITE 292,Networking 1 ,BSIT,2,1,3,1,2,3,,,"LEGASPI, JOHN MICHAEL V",,7:30-9:30/9:30-10:30,T,CL1,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+PED 027,Physical Activities Towards Health and Fitness,BSIT,2,0,2,1,0,1,,,CAS,,10:00-11:00,TH,HOME,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+SSP 05,Student Success program 1,BSIT,1,0,1,1,0,1,,,"LEGASPI, JOHN MICHAEL V",,3:30-4:30,TH,TBA,2BSIT-C1-1S,2nd Year,1st Sem,20-21
+ITE 299,Ethics (including Social and professional Issue),BSIT,3,0,3,2,0,2,,,"LEGASPI, JOHN MICHAEL V",,1:30-3:30,W,TBA,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+SCX010,Environmental Science,BSIT,3,0,3,2,0,2,,,CAS,,8:00-10:00,F,TBA,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+PHI002,Logic,BSIT,3,0,3,2,0,2,,,CAS,,10:00-12:00,W,TBA,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+ITE 048,Discrete Structures,BSIT,3,0,3,2,0,2,,,PANGILINAN ODEZZA A,,1:30-3:30,F,TBA,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+ITE 031,Data Structures and  Algorithms,BSIT,2,1,3,1,2,3,,,PANGILINAN ODEZZA A,,7:30-9:30/9:30-10:30,T,CL1,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+ITE 300,Object Oriented Programming,BSIT,2,1,3,1,1,3,,,"COLLADO, SALVADOR P",,8:00-10:00/4:30-5:30,F,CL1,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+ITE 292,Networking 1 ,BSIT,2,1,3,1,2,3,,,"LEGASPI, JOHN MICHAEL V",,1:30:3:30/3:30-4:30,T,CL1,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+PED 027,Physical Activities Towards Health and Fitness,BSIT,2,0,2,1,0,1,,,CAS,,10:00-11:00,TH,HOME,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+SSP 05,Student Success program 1,BSIT,1,0,1,1,0,1,,,"LEGASPI, JOHN MICHAEL V",,3:30-4:30,W,TBA,2BSIT-C1-2S,2nd Year,1st Sem,20-21
+ITE 299,Ethics (including Social and professional Issue),BSIT,3,0,3,2,0,2,,,"LEGASPI, JOHN MICHAEL V",,10:00-12:00,TH,TBA,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+SCX010,Environmental Science,BSIT,3,0,3,2,0,2,,,CAS,,8:00-10:00,F,TBA,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+PHI002,Logic,BSIT,3,0,3,2,0,2,,,CAS,,10:00-12:00,W,TBA,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+ITE 048,Discrete Structures,BSIT,3,0,3,2,0,2,,,"PANGILINAN, ODEZZA A",,1:30-3:30,F,TBA,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+ITE 031,Data Structures and  Algorithms,BSIT,2,1,3,1,2,3,,,"PANGILINAN, ODEZZA A",,1:30-3:30/3:30-4:30,W,CL1,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+ITE 300,Object Oriented Programming,BSIT,2,1,3,1,1,3,,,"COLLADO, SALVADOR  P",,8:00-10:00/4:30-5:30,TH,CL1,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+ITE 292,Networking 1 ,BSIT,2,1,3,1,2,3,,,"LEGASPI, JOHN MICHAEL V",,1:30-3:30/3:30-4:30,TH,CL1,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+PED 027,Physical Activities Towards Health and Fitness,BSIT,2,0,2,1,0,1,,,CAS,,10:00-11:00,F,HOME,2BSIT-C1-3S,2nd Year,1st Sem,20-21
+ITE 301,Application Development and Emerging Technologies,BSIT,2,1,3,1,2,3,,,"PANGILINAN, ODEZZA A",,2:30-4:30/4:30-5:30,T,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 306,Integrative Programming and Technologies,BSIT,2,1,3,1,2,3,,,"PANGILINAN, ODEZZA A",,11:00-12:00/1:30-3:30,TH,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 307,Quantitative Methods Including Modeling and Simulation,BSIT,2,1,3,2,0,2,,,"COLLADO, SALVADOR  P",,8:00-10:00,F,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 308,Web System and Technologies,BSIT,2,1,3,1,2,3,,,"COLLADO, SALVADOR  P",,10:00-12:00/1:30-2:30,T,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 309,Capstone Project and Research 1,BSIT,2,1,3,2,0,2,,,"JULIANO, EVELYN S",,10:00-12:00,F,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 314,Advance Database Systems,BSIT,2,1,3,2,1,3,,,"LEGASPI, JOHN MICHAEL V",,8:00-10:00/10:00-11:00,TH,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 233,IT Elective 2 (Adv. Web 2),BSIT,2,1,3,1,1,2,,,"LEGASPI, JOHN MICHAEL V",,2:30-4:30,F,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+SSP 007,Student Success Program 3,BSIT,1,0,1,1,0,1,,,"PANGILINAN, ODEZZA A",,1:30-2:30,F,CL1,3BSIT-C2-1S,3rd Year,1st Sem,20-21
+ITE 301,Application Development and Emerging Technologies (LEC & LAB),BSIT,2,1,3,1,2,3,,,"PANGILINAN, ODEZZA A",,2:30-4:30/4:30-5:30,,CL1,3BSIT-C2-2S,3rd Year,1st Sem,20-21
+ITE 306,Integrative Programming and Technologies (LEC & LAB),BSIT,2,1,3,1,2,3,,,"PANGILINAN, ODEZZA A",,11:00-12:00/1:30-3:30,TH,CL1,3BSIT-C2-2S,3rd Year,1st Sem,20-22
+ITE 307,Quantitative Methods Including Modeling and Simulation,BSIT,2,1,3,2,0,2,,,"COLLADO, SALVADOR  P",,8:00-10:00,TH,TBA,3BSIT-C2-2S,3rd Year,1st Sem,20-21
+ITE 308,Web System and Technologies (LEC & LAB),BSIT,2,1,3,1,2,3,,,"COLLADO, SALVADOR  P",,10:00-12:00/1:30-2:30,TH,CL1,3BSIT-C2-2S,3rd Year,1st Sem,20-21
+ITE 309,Capstone Project and Research 1,BSIT,2,1,3,2,0,2,,,"JULIANO, EVELYN S",,10:00-12:00,TH,TBA,3BSIT-C2-2S,3rd Year,1st Sem,20-21
+ITE 314,Advance Database Systems (LEC & LAB),BSIT,2,1,3,2,1,3,,,"LEGASPI, JOHN MICHAEL V",,8:00-10:00/10:00-11:00,TH,CL1,3BSIT-C2-2S,3rd Year,1st Sem,20-21
+ITE 233,IT Elective 2 (Adv. Web 2),BSIT,2,1,3,1,1,2,,,"MARK EUGENE GAMAS MANUEL",,2:30-3:30/3:30-5:30,TH,CL1,"3BSIT-C2-2S
+",3rd Year,1st Sem,20-21
+SSP 007,Student Success Program 3,BSIT,1,0,1,1,0,1,,,"MARK EUGENE GAMAS MANUEL",,1:30-2:30,TH,TBA,"3BSIT-C2-2S
+",3rd Year,1st Sem,20-21
+ITE 317,Systems Integration and Architecture 2,BSIT,2,1,3,1,1,2,,,"LEGASPI, JOHN MICHAEL V",,8:00-10:00,T,107 AC,4BSIT-C1-1,4th Year,1st Sem,20-21
+ITE 322,Managing IT Resources,BSIT,2,1,3,1,1,2,,,"LEGASPI, JOHN MICHAEL V",,10:00-12:00,T,107 AC,4BSIT-C1-1,4th Year,1st Sem,20-21
+ITE 351,New Venture Creation (4 units),BSIT,2,2,4,2,1,3,,,"PANGILINAN, ODEZZA A",,3:30-5:30/5:30-6:30,T,107 AC,4BSIT-C1-1,4th Year,1st Sem,20-21
+SSP 009,Student Success Program 5,BSIT,1,0,1,1,1,2,,,"JULIANO, EVELYN S",,1:30-3:30,T,CL4,4BSIT-C1-1,4th Year,1st Sem,20-21
+ITE 317,Systems Integration and Architecture 2,BSIT,2,1,3,1,1,2,,,"LEGASPI, JOHN MICHAEL V",,3:30-4:50,T,107 AC,4BSIT-C1-2,4th Year,1st Sem,20-21
+ITE 322,Managing IT Resources,BSIT,2,1,3,1,1,2,,,"PANGILINAN, ODEZZA A",,3:30-4:51,T,107 AC,4BSIT-C1-2,4th Year,1st Sem,20-21
+ITE 351,New Venture Creation (4 units),BSIT,2,2,4,2,1,3,,,"LEGASPI, JOHN MICHAEL V",,3:30-4:52,T,107 AC,4BSIT-C1-2,4th Year,1st Sem,20-21
+SSP 009,Student Success Program 5,BSIT,1,0,1,1,1,2,,,"JULIANO, EVELYN S",,3:30-4:53,T,CL4,4BSIT-C1-2,4th Year,1st Sem,20-21
